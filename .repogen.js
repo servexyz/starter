@@ -1,5 +1,4 @@
 const config = {
-  provider: "alechp",
   repospacePath: __dirname,
   repositories: [
     {
