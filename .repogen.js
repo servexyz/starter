@@ -13,7 +13,8 @@ const config = {
     },
     {
       servexyz: "service-starter"
-    }
+    },
+    { servexyz: "oauth-starter" }
   ]
 };
 
