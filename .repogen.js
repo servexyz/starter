@@ -14,7 +14,10 @@ const config = {
     {
       servexyz: "service-starter"
     },
-    { servexyz: "oauth-starter" }
+    { servexyz: "oauth-starter" },
+    { servexyz: "ink-cli-starter" },
+    { servexyz: "ant-amplify-react-starter" },
+    { servexyz: "amplify-react-starter" } 
   ]
 };
 
