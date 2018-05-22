@@ -9,7 +9,9 @@ const config = {
     { servexyz: "ant-amplify-razzle-starter" },
     { servexyz: "amplify-razzle-starter"},
     { servexyz: "semantic-amplify-razzle-starter" },
-    { servexyz: "aws-sls-auth-starter" }
+    { servexyz: "aws-sls-auth-starter" },
+    { servexyz: "prisma-starter" },
+    { servexyz: "docsify-starter" }
   ]
 };
 
