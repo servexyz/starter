@@ -11,7 +11,9 @@ const config = {
     { servexyz: "semantic-amplify-razzle-starter" },
     { servexyz: "aws-sls-auth-starter" },
     { servexyz: "prisma-starter" },
-    { servexyz: "docsify-starter" }
+    { servexyz: "docsify-starter" },
+    { servexyz: "prisma-authorized-starter" },
+    { servexyz: "prisma-project-starter" }
   ]
 };
 
