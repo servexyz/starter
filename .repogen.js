@@ -12,7 +12,8 @@ const config = {
     { servexyz: "aws-sls-auth-starter" },
     { servexyz: "prisma-starter" },
     { servexyz: "docsify-starter" },
-    { servexyz: "prisma-authorized-starter" }
+    { servexyz: "prisma-authorized-starter" },
+    { servexyz: "reach-amplify-unstated-razzle-starter" }
   ]
 };
 
