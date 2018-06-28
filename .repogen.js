@@ -13,7 +13,8 @@ const config = {
     { servexyz: "prisma-starter" },
     { servexyz: "docsify-starter" },
     { servexyz: "prisma-authorized-starter" },
-    { servexyz: "reach-amplify-unstated-razzle-starter" }
+    { servexyz: "reach-amplify-unstated-razzle-starter" },
+    { servexyz: "razzle-amplify-unstated-starter" }
   ]
 };
 
