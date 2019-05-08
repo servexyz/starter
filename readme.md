@@ -3,8 +3,11 @@
 > What: Monolith of related, stack-specific boilerplate projects.
 > 
 > Why: Inspired by frustration with DX around existing boilerplates.
+>
+> Who: This repo ("STARTER") is intended for maintainers of these boilerplates. If you're seeking to use any of the boilerplates, I recommend using them individually as needed. You'll find links and descriptions below
 
 ## Getting Started
+> Who: Boilerplate maintainers
 
 ```bash
 git clone https://github.com/servexyz/starter
@@ -12,11 +15,12 @@ cd starter
 npx repogen .repogen.js
 ```
 
-## What You'll See
+### What You'll See
 
 ![repogen](./docs/repogen.png)
 
 ## Projects
+> Who: Boilerplate users
 
 ### Active - `Maintained`
 
