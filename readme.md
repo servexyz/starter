@@ -20,13 +20,12 @@ npx repogen .repogen.js
 
 > These are active. Currently utilized in ongoing private projects.
 
-| Code Name | Name                                                                       | Description                                                                       |
-| :-------- | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
-| `STAR`    | [`starter`](https://github.com/servexyz/starter)                           | This project; monolith of repogen produced symlinks                               |
-| `NSTAR`   | [`node-starter`](https://github.com/servexyz/node-starter)                 | Starting point for node projects (servers and modules namely; not targeting CLIs) |
-| `PRSTAR`  | [`prisma-starter`](https://github.com/servexyz/prisma-starter)             | Dockerized prisma.io & MySQL starting point                                       |
-| `DOCSTAR` | [`docsify-starter`](https://github.com/servexyz/docsify-starter)           | Dockerized docsify starting point                                                 |
-| `SLSTAR`  | [`aws-sls-auth-starter`](https://github.com/servexyz/aws-sls-auth-starter) | Serverless Node.js functions & AWS Cognito                                        |
+| Effort Level             | Code Name | Name                                                                       | Description                                                                       |
+| ------------------------ | :-------- | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| :star::star::star::star: | `NSTAR`   | [`node-starter`](https://github.com/servexyz/node-starter)                 | Starting point for node projects (servers and modules namely; not targeting CLIs) |
+| :star::star::star:       | `PRSTAR`  | [`prisma-starter`](https://github.com/servexyz/prisma-starter)             | Dockerized prisma.io & MySQL starting point                                       |
+| :star::star:             | `DOCSTAR` | [`docsify-starter`](https://github.com/servexyz/docsify-starter)           | Dockerized docsify starting point                                                 |
+| :star::star::star:       | `SLSTAR`  | [`aws-sls-auth-starter`](https://github.com/servexyz/aws-sls-auth-starter) | Serverless Node.js functions & AWS Cognito                                        |
 
 
 
