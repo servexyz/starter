@@ -24,7 +24,7 @@ npx repogen .repogen.js
 |--------------------------|-----------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | :star::star::star::star: | `NSTAR`   | [`node-starter`](https://github.com/servexyz/node-starter)                 | Starting point for node projects (servers and modules namely; not targeting CLIs) |
 | :star::star::star:       | `PRSTAR`  | [`prisma-starter`](https://github.com/servexyz/prisma-starter)             | Dockerized prisma.io & MySQL starting point                                       |
-| :star::star:             | `DOCSTAR` | [`docsify-starter`](https://github.com/servexyz/docsify-starter)           | Dockerized docsify starting point                                                 |
+| :star:                   | `DOCSTAR` | [`docsify-starter`](https://github.com/servexyz/docsify-starter)           | Dockerized docsify starting point                                                 |
 | :star::star::star:       | `SLSTAR`  | [`aws-sls-auth-starter`](https://github.com/servexyz/aws-sls-auth-starter) | Serverless Node.js functions & AWS Cognito                                        |
 
 ---
