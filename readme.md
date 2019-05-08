@@ -1,6 +1,8 @@
 ![logo](docs/logo/svg/Star.svg)
 
-> STARTER: Monolith of related, stack-specific boilerplate projects
+> What: Monolith of related, stack-specific boilerplate projects.
+> 
+> Why: Inspired by frustration with DX around existing boilerplates.
 
 ## Getting Started
 
@@ -19,7 +21,6 @@ npx repogen .repogen.js
 ### Active - `Maintained`
 
 > These are active. Currently utilized in ongoing private projects.
-> Inspired by general frustration with DX around existing boilerplates.
 
 | Effort Level             | Code Name | Name                                                                       | Description                                                                       |
 |--------------------------|-----------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
