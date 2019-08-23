@@ -3,6 +3,7 @@ const config = {
   repospacePath: __dirname,
   repositories: [
     { servexyz: "node-starter" },
+    { servexyz: "next-ant-starter" },
     { servexyz: "amplify-razzle-starter"},
     { servexyz: "aws-sls-auth-starter" },
     { servexyz: "prisma-starter" },
